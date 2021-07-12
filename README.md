@@ -1,6 +1,7 @@
 CODE REFACTOR.
 
-[Link to page djenkins88.github.io/Project-Code-Refactor.-/]()
+
+Link to page here [djenkins88.github.io/Project-Code-Refactor.-/]()
 
 ![img1](https://user-images.githubusercontent.com/81633522/117509698-5304cc80-af50-11eb-8542-7f5dd316fdaf.png) 
 
